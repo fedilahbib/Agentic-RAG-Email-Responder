@@ -1,0 +1,9 @@
+imaplib2
+openai==0.28
+python-dotenv
+datasets
+langchain
+chromadb
+sentence-transformers
+pydantic
+langchain-community
